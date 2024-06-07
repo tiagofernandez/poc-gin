@@ -1,0 +1,11 @@
+.dockerignore
+.editorconfig
+.gitignore
+
+app-gin
+cover.out
+Dockerfile
+gin-bin
+Makefile
+README.md
+tools.go
